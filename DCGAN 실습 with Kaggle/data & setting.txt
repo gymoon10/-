@@ -1,0 +1,5 @@
+https://www.kaggle.com/prondeau/the-car-connection-picture-dataset
+ 
+환경 : Colab
+
+DATA_PATH, MODEL_SAVE_PATH는 적절하게 변경해주세요
