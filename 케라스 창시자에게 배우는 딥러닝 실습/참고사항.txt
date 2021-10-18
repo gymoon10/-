@@ -1,0 +1,6 @@
+출처 : 
+https://github.com/rickiepark/deep-learning-with-python-notebooks (역자 깃허브)
+https://www.gilbut.co.kr/book/view?bookcode=BN002235#bookData (출판사 홈페이지)
+
+실습 환경:
+최신 버전의 keras(2.6)에서 에러가 발생하거나 제대로 실행되지 않는 부분이 있어 코랩 환경에서 실습을 진행
