@@ -5,3 +5,6 @@
 데이터 : news_articles_ner.csv
 
 학습 환경 : Colab
+
+결과
+![image](https://user-images.githubusercontent.com/44194558/139623909-d14ff78e-7f34-4522-837d-619364714945.png)
