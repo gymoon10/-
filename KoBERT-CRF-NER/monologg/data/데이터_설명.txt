@@ -1,0 +1,5 @@
+articles.txt : eagle705의 news_articles_ner.csv의 모든 기사 문장들을 문장별로 모아놓음 (총 10개의 기사)
+
+article_i.txt : i 번째 기사의 문장들
+
+artilce_i_out.txt : 학습이 완료된 모델에 입력으로 article_i.txt를 넣었을 때의 예측 출력
